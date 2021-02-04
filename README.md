@@ -1,4 +1,3 @@
-# Localization-of-Self-Driving-Car-using-EKF-Sensor-Fusion
 # Localization of Self-Driving-Car using EKF Sensor Fusion
 
 ### This is the public repo for project of Self-Driving Car at 2020 Fall
